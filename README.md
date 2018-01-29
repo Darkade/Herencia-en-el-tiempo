@@ -14,13 +14,13 @@ Mr. Don Rico ha muerto dejando una cuantiosa herencia a quienes lo ayudaron en v
 
 ## Reglas
 
-### Antes de empezar
+### Antes de empezar
 
 1. Revuelve las 5 cartas de tipo de objeto y colocadas en el mercado
 2. Revuelve el mazo de objetos/acciones y reparte 3 a cada jugador
 3. El jugador más joven comienza. O elige alguna forma de comenzar
 
-### Orden de la ronda
+### Orden de la ronda
 
 1. Cada jugador juega una carta de acción y resuelve su efecto inmediatamente.
 2. Cada jugador elige una carta para descartar y una carta para guardar
@@ -28,7 +28,7 @@ Mr. Don Rico ha muerto dejando una cuantiosa herencia a quienes lo ayudaron en v
 4. Cada jugador toma 3 cartas
 5. Se activa una carta de evento y se resuelve su efecto inmediatamente (A menos que se juegue un 7 Ver la sección acciones). Las cartas de evento también actualizan el mercado
 
-### Acciones
+### Acciones
 
 3 Todos intercambian una carta a la derecha. No veas la carta que estas recibiendo hasta dar una carta tu.
 4 Descarta una carta de tu mano, luego roba una de mazo
@@ -45,7 +45,7 @@ Acomoda las cartas de vuelta siguiendo las flechas
 Ejemplo:
 
 
-### Fin del juego
+### Fin del juego
 
 El juego termina cuando Mr. Don Rico muere (se queda sin cartas de salud) y deja su herencia. En ese momento todos los jugadores cuentan sus puntos:
 Cada carta tiene su valor impreso
@@ -62,3 +62,5 @@ Hugo Aguirre Martínez
 Ricardo Mastachi Torres
 
 Ivan Reyes Conde
+
+Jesús López Martínez
